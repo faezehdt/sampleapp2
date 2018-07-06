@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="915ee436-8380-47a2-8d4a-750f5579f668" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sampleapp3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sampleapp3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/users_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/users_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/environments/production.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/environments/production.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/migrate/20180704122643_add_index_to_users_email.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/migrate/20180704122643_add_index_to_users_email.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/migrate/20180704123031_add_password_digest_to_users.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/migrate/20180704123031_add_password_digest_to_users.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/integration/users_signup_test.rb" beforeDir="false" />
-    </list>
+    <list default="true" id="915ee436-8380-47a2-8d4a-750f5579f668" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
     <ignored path="$PROJECT_DIR$/public/system/" />
@@ -266,6 +256,12 @@
             <path>
               <item name="sampleapp3" type="b2602c69:ProjectViewProjectNode" />
               <item name="sampleapp3" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="environments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sampleapp3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sampleapp3" type="462c0819:PsiDirectoryNode" />
               <item name="db" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -477,16 +473,15 @@
       <workItem from="1530871911018" duration="1182000" />
       <workItem from="1530873778129" duration="1535000" />
       <workItem from="1530875682545" duration="1666000" />
-      <workItem from="1530877504096" duration="764000" />
+      <workItem from="1530877504096" duration="982000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60750000" />
+    <option name="totallyTimeSpent" value="60968000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.315832" />
       <window_info anchor="bottom" id="TODO" order="6" />
